@@ -1,0 +1,14 @@
+{
+  "name": "javascript_pekan-2",
+  "version": "1.0.0",
+  "description": "belajar javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node file_name.js"
+  },
+  "author": "eka",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
